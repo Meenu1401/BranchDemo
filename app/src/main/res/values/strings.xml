@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BranchDemo</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome to Branch</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_message">Type a message</string>
+    <string name="registration_dagger">Register to Branch</string>
+    <string name="register">Register</string>
+    <string name="next">Next</string>
+    <string name="login_error">Error logging you in. Try again</string>
+    <string name="registration_error">Error happened during registration. Try again</string>
+    <string name="logout">Logout</string>
+    <string name="unregister">Unregister</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="send">send</string>
+</resources>
